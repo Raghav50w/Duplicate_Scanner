@@ -1,0 +1,23 @@
+# Core image processing
+Pillow>=10.0.0
+pillow-heif>=0.13.0
+
+# Deep learning — CNN feature extraction
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+
+# Vector search
+faiss-cpu>=1.7.4
+
+# Computer vision — keypoint matching
+opencv-python>=4.8.0
+
+# Numpy
+numpy>=1.24.0
+
+# UI
+PyQt6>=6.5.0
+
+# Safe file deletion (send to OS trash, not permanent delete)
+send2trash>=1.8.2
