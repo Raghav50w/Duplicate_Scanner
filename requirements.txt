@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pillow
+imagehash
+numpy>=2.0
+scipy
+send2trash
+pytest
